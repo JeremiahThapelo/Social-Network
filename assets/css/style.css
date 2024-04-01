@@ -123,6 +123,7 @@ nav .search-bar input[type="search"]::placeholder{
 nav .create{
     display: flex;
     align-items: center;
+    border-radius: var(--border-radius);
     gap: 2rem;
 }
 
