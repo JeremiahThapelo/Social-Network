@@ -63,7 +63,9 @@ img{
 
 .btn{
     display: inline-block;
-    padding: var(--border-radius);
+    padding: var(--btn-padding);
+    font-weight: 500;
+    border-radius: var(--border-radius);
     cursor: printer;
     transition: all 300ms ease;
     font-size: 0.9rem;
