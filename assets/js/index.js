@@ -1,4 +1,3 @@
-alert('okay');
 //SIDEBAR
 const menuItems = documet.querySelectorAll('.menu-item');
 
