@@ -309,17 +309,17 @@ main .container .left .profile{
 }
 
 .middle .stories .story:nth-child(1){
-    background: url("assets/images/story1.jpg")
+    background: url("./assets/images/story1.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(2){
-    background: url("assets/images/.jpg")
+    background: url("./assets/images/.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(3){
-    background: url("assets/images/story3.jpg")
+    background: url("./assets/images/story3.jpg")
     no-repeat center center/cover;
 }
 
