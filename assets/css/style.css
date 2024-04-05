@@ -331,7 +331,7 @@ main .container .left .profile{
 }
 
 /*--------------------CREATE POST-----------------------*/
-.middle.create-post{
+.middle .create-post{
     width: 100%;
     display: flex;
     align-items: center;
@@ -342,7 +342,7 @@ main .container .left .profile{
     border-radius: var(--border-radius);
 }
 
-.middle.create-post input[type="text"]{
+.middle .create-post input[type="text"] {
     justify-self: start;
     width: 100%;
     padding-left: 1rem;
