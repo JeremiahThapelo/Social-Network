@@ -314,12 +314,12 @@ main .container .left .profile{
 }
 
 .middle .stories .story:nth-child(2){
-    background: url("assets/images/.jpg")
+    background: url("/assets/images/story2.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(3){
-    background: url("https://cdn.motor1.com/images/mgl/E66gbv/s1/lamborghini-urus-by-g-power.webp")
+    background: url("/assets/images/story3.jpg")
     no-repeat center center/cover;
 }
 
